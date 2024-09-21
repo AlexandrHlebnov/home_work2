@@ -1,1 +1,1 @@
-print("love u world")
+print("hate u world")
